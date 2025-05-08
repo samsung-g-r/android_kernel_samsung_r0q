@@ -3,7 +3,8 @@ VERSION = 5
 PATCHLEVEL = 10
 SUBLEVEL = 198
 EXTRAVERSION =
-NAME = Dare mighty things
+NAME = r0q
+ARCH = arm64
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
